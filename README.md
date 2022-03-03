@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @simran punjabi
+- 👀 I’m interested in solving problems and learning python programing and sql
+- 🌱 I’m currently pursuing my BTech in Electronics And Tellecomunication in Sanjivani College of Engineering
+- 💞️ I’m looking to collaborate on Programing
+- 📫 How to reach me by my Email Id punjabisimran15@gmail.com
